@@ -1,0 +1,189 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="▂ ▄ ▅ ▆  COLOMBIA  ▆ ▅ ▄ ▂" group-title="LAT - Colombia", ▂ ▄ ▅ ▆  COLOMBIA  ▆ ▅ ▄ ▂
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/32095
+#EXTINF: -1 tvg-id="CanalUno.co" tvg-name="CO: Canal 1 (MOVIL)" tvg-logo="http://tvgo.re:8080/images/063b63e0db5119d3f462bd1c00a1b863.png" group-title="LAT - Colombia", CO: Canal 1 (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65058
+#EXTINF: -1 tvg-id="CanalUno.co" tvg-name="CO: Canal 1 SD" tvg-logo="http://tvgo.re:8080/images/063b63e0db5119d3f462bd1c00a1b863.png" group-title="LAT - Colombia", CO: Canal 1 SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/25196
+#EXTINF: -1 tvg-id="CanalUno.co" tvg-name="CO: Canal 1 HD" tvg-logo="http://tvgo.re:8080/images/063b63e0db5119d3f462bd1c00a1b863.png" group-title="LAT - Colombia", CO: Canal 1 HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/25195
+#EXTINF: -1 tvg-id="Caracol.co" tvg-name="CO: Caracol (MOVIL)" tvg-logo="http://tvgo.re:8080/images/dd138d422db91d5d1c5f5d32b3a23bbf.png" group-title="LAT - Colombia", CO: Caracol (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65066
+#EXTINF: -1 tvg-id="Caracol.co" tvg-name="CO: Caracol SD" tvg-logo="http://tvgo.re:8080/images/dd138d422db91d5d1c5f5d32b3a23bbf.png" group-title="LAT - Colombia", CO: Caracol SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/15106
+#EXTINF: -1 tvg-id="Caracol.co" tvg-name="CO: Caracol HD" tvg-logo="http://tvgolatino.com:8080/images/dd138d422db91d5d1c5f5d32b3a23bbf.png" group-title="LAT - Colombia", CO: Caracol HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1618
+#EXTINF: -1 tvg-id="Caracol.co" tvg-name="CO: Caracol Full HD" tvg-logo="http://tvgolatino.com:8080/images/dd138d422db91d5d1c5f5d32b3a23bbf.png" group-title="LAT - Colombia", CO: Caracol Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1619
+#EXTINF: -1 tvg-name="CO: Caracol Int HD" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="LAT - Colombia", CO: Caracol Int HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/41153
+#EXTINF: -1 tvg-id="RCN.co" tvg-name="CO: RCN (MOVIL)" tvg-logo="http://tvgo.re:8080/images/01db06cb34661c66995ec5a88a477b64.png" group-title="LAT - Colombia", CO: RCN (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65743
+#EXTINF: -1 tvg-id="RCN.co" tvg-name="CO: RCN SD" tvg-logo="http://tvgolatino.com:8080/images/01db06cb34661c66995ec5a88a477b64.png" group-title="LAT - Colombia", CO: RCN SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/15107
+#EXTINF: -1 tvg-id="RCN.co" tvg-name="CO: RCN HD" tvg-logo="http://tvgo.ddns.net:8080/images/01db06cb34661c66995ec5a88a477b64.png" group-title="LAT - Colombia", CO: RCN HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1627
+#EXTINF: -1 tvg-id="RCN.co" tvg-name="CO: RCN Full HD" tvg-logo="http://tvgolatino.com:8080/images/01db06cb34661c66995ec5a88a477b64.png" group-title="LAT - Colombia", CO: RCN Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1628
+#EXTINF: -1 tvg-name="CO: RCN Nuestra Tele Int. SD" tvg-logo="http://tvgolatino.com:8080/images/34e84aa1276a81d174b5231b0a97e035.png" group-title="LAT - Colombia", CO: RCN Nuestra Tele Int. SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/107090
+#EXTINF: -1 tvg-name="CO: RCN Nuestra Tele Int. FHD" tvg-logo="http://tvgo.re:8080/images/34e84aa1276a81d174b5231b0a97e035.png" group-title="LAT - Colombia", CO: RCN Nuestra Tele Int. FHD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/60585
+#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="CO: RCN Internacional FHD" group-title="LAT - Colombia", CO: RCN Internacional FHD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/7341
+#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="CO: RCN Novelas (MOVIL)" tvg-logo="http://tvgo.re:8080/images/d727ea3936d94cbe23196957f5d782ea.png" group-title="LAT - Colombia", CO: RCN Novelas (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65744
+#EXTINF: -1 tvg-name="CO: RCN Novelas SD" tvg-logo="http://tvgo.re:8080/images/f86bca981a6ede8adca9ae54df816876.png" group-title="LAT - Colombia", CO: RCN Novelas SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/107089
+#EXTINF: -1 tvg-id="Teleantioquia.co" tvg-name="CO: TeleAntioquia (MOVIL)" tvg-logo="http://tvgo.re:8080/images/3a17cc4ddab05dc8bd97c088245e31bc.png" group-title="LAT - Colombia", CO: TeleAntioquia (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65746
+#EXTINF: -1 tvg-id="Teleantioquia.co" tvg-name="CO: TeleAntioquia" tvg-logo="http://tvgolatino.com:8080/images/3a17cc4ddab05dc8bd97c088245e31bc.png" group-title="LAT - Colombia", CO: TeleAntioquia
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1631
+#EXTINF: -1 tvg-id="Telecafe.co" tvg-name="CO: Telecafe (MOVIL)" tvg-logo="http://tvgo.re:8080/images/c65718a09512ccef87508bbea5dc3969.png" group-title="LAT - Colombia", CO: Telecafe (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65747
+#EXTINF: -1 tvg-id="Telecafe.co" tvg-name="CO: Telecafe SD" tvg-logo="http://tvgo.re:8080/images/c65718a09512ccef87508bbea5dc3969.png" group-title="LAT - Colombia", CO: Telecafe SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/25198
+#EXTINF: -1 tvg-id="Telemedellin.co" tvg-name="CO: Telemedellin" tvg-logo="http://tvgolatino.com:8080/images/8593536d065b829c38417f1588010889.png" group-title="LAT - Colombia", CO: Telemedellin
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1634
+#EXTINF: -1 tvg-id="Telecaribe.co" tvg-name="CO: Telecaribe (MOVIL)" tvg-logo="http://tvgo.re:8080/images/9d5048da55f4778ef10c037376d0bc32.png" group-title="LAT - Colombia", CO: Telecaribe (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65748
+#EXTINF: -1 tvg-id="Telecaribe.co" tvg-name="CO: Telecaribe HD" tvg-logo="https://static.epg.best/co/Telecaribe.co.png" group-title="LAT - Colombia", CO: Telecaribe HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1633
+#EXTINF: -1 tvg-id="CanalCapital.co" tvg-name="CO: Canal Capital HD" tvg-logo="https://static.epg.best/co/CanalCapital.co.png" group-title="LAT - Colombia", CO: Canal Capital HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1613
+#EXTINF: -1 tvg-name="CO: CNC Medellin HD" group-title="LAT - Colombia", CO: CNC Medellin HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/7028
+#EXTINF: -1 tvg-name="CO: CNC Pasto" group-title="LAT - Colombia", CO: CNC Pasto
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/7029
+#EXTINF: -1 tvg-name="CO: Suram TV HD" group-title="LAT - Colombia", CO: Suram TV HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/7030
+#EXTINF: -1 tvg-name="CO: NTN24 SD" tvg-logo="http://tvgolatino.com:8080/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png" group-title="LAT - Colombia", CO: NTN24 SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/107088
+#EXTINF: -1 tvg-name="CO: NTN24 HD" group-title="LAT - Colombia", CO: NTN24 HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1626
+#EXTINF: -1 tvg-name="CO: Pasiones" group-title="LAT - Colombia", CO: Pasiones
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/7033
+#EXTINF: -1 tvg-name="CO: Pasiones HD" group-title="LAT - Colombia", CO: Pasiones HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/34256
+#EXTINF: -1 tvg-name="CO: Pasiones Full HD" group-title="LAT - Colombia", CO: Pasiones Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/7032
+#EXTINF: -1 tvg-id="CableNoticias.co" tvg-name="CO: Cable Noticias FHD" group-title="LAT - Colombia", CO: Cable Noticias FHD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/33708
+#EXTINF: -1 tvg-name="CO: Canal Institucional" group-title="LAT - Colombia", CO: Canal Institucional
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1614
+#EXTINF: -1 tvg-name="CO: Cantinazo HD" group-title="LAT - Colombia", CO: Cantinazo HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1617
+#EXTINF: -1 tvg-name="CO: City Tv (MOVIL)" group-title="LAT - Colombia", CO: City Tv (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65076
+#EXTINF: -1 tvg-name="CO: City Tv" group-title="LAT - Colombia", CO: City Tv
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1622
+#EXTINF: -1 tvg-name="CO: El Tiempo" group-title="LAT - Colombia", CO: El Tiempo
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1624
+#EXTINF: -1 tvg-name="CO: La Kalle HD" group-title="LAT - Colombia", CO: La Kalle HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1625
+#EXTINF: -1 tvg-id="Senal.co" tvg-name="CO: Señal Colombia FHD" tvg-logo="http://tvgo.re:8080/images/40dd6b16aad6940e313165ba0dfd365b.png" group-title="LAT - Colombia", CO: Señal Colombia FHD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/25199
+#EXTINF: -1 tvg-name="CO: TV Agro SD" group-title="LAT - Colombia", CO: TV Agro SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/27244
+#EXTINF: -1 tvg-name="CO: TV Agro HD" group-title="LAT - Colombia", CO: TV Agro HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1637
+#EXTINF: -1 tvg-name="CO: Telepacifico (MOVIL)" group-title="LAT - Colombia", CO: Telepacifico (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65750
+#EXTINF: -1 tvg-name="CO: Telepacifico HD" group-title="LAT - Colombia", CO: Telepacifico HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1635
+#EXTINF: -1 tvg-name="CO: Canal Tro (MOVIL)" group-title="LAT - Colombia", CO: Canal Tro (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65063
+#EXTINF: -1 tvg-name="CO: Canal Tro" group-title="LAT - Colombia", CO: Canal Tro
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/24417
+#EXTINF: -1 tvg-name="CO: Teleisla (MOVIL)" group-title="LAT - Colombia", CO: Teleisla (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65749
+#EXTINF: -1 tvg-name="CO: Teleisla SD" tvg-logo="https://img3.androidappsapk.co/300/c/2/7/appinventor.ai_david_ibarguen.TeleislasTV.png" group-title="LAT - Colombia", CO: Teleisla SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/25197
+#EXTINF: -1 tvg-name="CO: Canal Mundo +" group-title="LAT - Colombia", CO: Canal Mundo +
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/48272
+#EXTINF: -1 tvg-name="CO: ATN Televisión " group-title="LAT - Colombia", CO: ATN Televisión
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/107079
+#EXTINF: -1 tvg-id="CanalTrece.co" tvg-name="CO: Trece (MOVIL)" group-title="LAT - Colombia", CO: Trece (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65751
+#EXTINF: -1 tvg-name="•●★-- Deportes Colombia --★●•" group-title="LAT - Colombia Deportes ⚽", •●★-- Deportes Colombia --★●•
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/32341
+#EXTINF: -1 tvg-name="SP: CO: Espn 1 Sur (MOVIL)" tvg-logo="http://tvgo.ddns.net:8080/images/d7e3da92d2382b10485120c5039c837d.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 1 Sur (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65103
+#EXTINF: -1 tvg-name="SP: CO: Espn 1 Sur SD (Opc 1)" tvg-logo="http://tvgo.ddns.net:8080/images/d7e3da92d2382b10485120c5039c837d.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 1 Sur SD (Opc 1)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/931
+#EXTINF: -1 tvg-name="SP: CO: Espn 1 Sur SD (Opc 2)" tvg-logo="http://tvgo.ddns.net:8080/images/d7e3da92d2382b10485120c5039c837d.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 1 Sur SD (Opc 2)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/137264
+#EXTINF: -1 tvg-name="SP: CO: Espn 1 Sur HD (Opc 1)" tvg-logo="http://tvgo.ddns.net:8080/images/d7e3da92d2382b10485120c5039c837d.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 1 Sur HD (Opc 1)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/26576
+#EXTINF: -1 tvg-name="SP: CO: Espn 1 Sur HD (Opc 2)" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 1 Sur HD (Opc 2)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/137265
+#EXTINF: -1 tvg-name="SP: CO: Espn 1 Sur FHD (Opc 1)" tvg-logo="http://tvgo.ddns.net:8080/images/d7e3da92d2382b10485120c5039c837d.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 1 Sur FHD (Opc 1)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/943
+#EXTINF: -1 tvg-name="SP: CO: Espn 1 Sur FHD (Opc 2)" tvg-logo="http://tvgo.ddns.net:8080/images/d7e3da92d2382b10485120c5039c837d.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 1 Sur FHD (Opc 2)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/137266
+#EXTINF: -1 tvg-name="SP: CO: Espn 2 Sur (MOVIL)" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 2 Sur (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/65826
+#EXTINF: -1 tvg-name="SP: CO: Espn 2 Sur SD" tvg-logo="http://tvgo.re:8080/images/9ebe4a09abc2be436c6fc2d2319f780b.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 2 Sur SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/932
+#EXTINF: -1 tvg-name="SP: CO: Espn 2 Sur HD" tvg-logo="http://tvgo.re:8080/images/9ebe4a09abc2be436c6fc2d2319f780b.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 2 Sur HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/26577
+#EXTINF: -1 tvg-name="SP: CO: Espn 2 Sur FHD" tvg-logo="http://tvgo.re:8080/images/9ebe4a09abc2be436c6fc2d2319f780b.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 2 Sur FHD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/945
+#EXTINF: -1 tvg-name="SP: CO: Espn 3 Sur SD" tvg-logo="http://tvgolatino.com:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 3 Sur SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/933
+#EXTINF: -1 tvg-name="SP: CO: Espn 3 Sur HD" tvg-logo="http://tvgolatino.com:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 3 Sur HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/26578
+#EXTINF: -1 tvg-name="SP: CO: Espn 3 Sur Full HD" tvg-logo="http://tvgolatino.com:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn 3 Sur Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/946
+#EXTINF: -1 tvg-name="SP: CO: Espn Plus Sur" tvg-logo="http://tvgo.ddns.net:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn Plus Sur
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/934
+#EXTINF: -1 tvg-name="SP: CO: Espn Plus Sur HD" tvg-logo="http://tvgo.ddns.net:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn Plus Sur HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/26579
+#EXTINF: -1 tvg-name="SP: CO: Espn Plus Sur Full HD" tvg-logo="http://tvgo.ddns.net:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Espn Plus Sur Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/947
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 1 Sur" tvg-logo="http://tvgolatino.com:8080/images/19c61fb48d6273185dff3b00434e1866.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 1 Sur
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/923
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 1 Sur HD" tvg-logo="http://tvgo.re:8080/images/19c61fb48d6273185dff3b00434e1866.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 1 Sur HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/26573
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 1 Sur Full HD" tvg-logo="http://tvgo.re:8080/images/19c61fb48d6273185dff3b00434e1866.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 1 Sur Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/938
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 2 Sur" tvg-logo="http://tvgo.ddns.net:8080/images/6316d4adefab0be6e3ab11ed8797ca78.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 2 Sur
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/924
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 2 Sur HD" tvg-logo="http://tvgolatino.com:8080/images/6316d4adefab0be6e3ab11ed8797ca78.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 2 Sur HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/26574
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 2 Sur Full HD" tvg-logo="http://tvgo.ddns.net:8080/images/6316d4adefab0be6e3ab11ed8797ca78.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 2 Sur Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/940
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 3 Sur" tvg-logo="http://tvgo.ddns.net:8080/images/937c48f4a94c2e48a48a3097b225537b.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 3 Sur
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/925
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 3 Sur HD" tvg-logo="http://tvgolatino.com:8080/images/937c48f4a94c2e48a48a3097b225537b.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 3 Sur HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/26575
+#EXTINF: -1 tvg-name="SP: CO: Fox Sports 3 Sur Full HD" tvg-logo="http://tvgolatino.com:8080/images/937c48f4a94c2e48a48a3097b225537b.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Fox Sports 3 Sur Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/942
+#EXTINF: -1 tvg-name="SP: CO: Directv Sports 1 SD" group-title="LAT - Colombia Deportes ⚽", SP: CO: Directv Sports 1 SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/233833
+#EXTINF: -1 tvg-id="DirectvSports.co" tvg-name="SP: CO: Directv Sports 1 HD" tvg-logo="http://tvgolatino.com:8080/images/4348223148459ef6afcf7b10229d0c5d.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Directv Sports 1 HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1918
+#EXTINF: -1 tvg-name="SP: CO: Directv Sports 2 SD" group-title="LAT - Colombia Deportes ⚽", SP: CO: Directv Sports 2 SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/233834
+#EXTINF: -1 tvg-name="SP: CO: Directv Sports 2 HD" tvg-logo="http://tvgo.ddns.net:8080/images/90774583ba793531640321a5514beb55.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Directv Sports 2 HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1919
+#EXTINF: -1 tvg-id="DirectvSports.co" tvg-name="SP: CO: Directv Sports Plus" tvg-logo="http://tvgo.ddns.net:8080/images/845f1399219134d59934f5f993727cdd.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Directv Sports Plus
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/1920
+#EXTINF: -1 tvg-name="SP: CO: Win Sports SD" group-title="LAT - Colombia Deportes ⚽", SP: CO: Win Sports SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/80906
+#EXTINF: -1 tvg-id="WinSports.co" tvg-name="SP: CO: Win Sports HD" tvg-logo="https://static.iptv-epg.com/co/WinSports.co.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Win Sports HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/11130
+#EXTINF: -1 tvg-id="WinSports.co" tvg-name="SP: CO: Win Sports Full HD" tvg-logo="https://static.iptv-epg.com/co/WinSports.co.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Win Sports Full HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/2030
+#EXTINF: -1 tvg-name="SP: CO: Win Sports+ (MOVIL)" group-title="LAT - Colombia Deportes ⚽", SP: CO: Win Sports+ (MOVIL)
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/102714
+#EXTINF: -1 tvg-name="SP: CO: Win Sports+ SD" group-title="LAT - Colombia Deportes ⚽", SP: CO: Win Sports+ SD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/80905
+#EXTINF: -1 tvg-name="SP: CO: Win Sports+ HD" group-title="LAT - Colombia Deportes ⚽", SP: CO: Win Sports+ HD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/80904
+#EXTINF: -1 tvg-id="WinSports.co" tvg-name="SP: CO: Win Sports+ FHD" tvg-logo="https://static.iptv-epg.com/co/WinSports.co.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Win Sports+ FHD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/30104
+#EXTINF: -1 tvg-id="ClaroSports.co" tvg-name="SP: CO: Claro Sports Latinoamerica FHD" tvg-logo="https://static.iptv-epg.com/co/ClaroSports.co.png" group-title="LAT - Colombia Deportes ⚽", SP: CO: Claro Sports Latinoamerica FHD
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/927
+#EXTINF: -1 tvg-name="SP: CO: Claro Sports Latinoamerica" group-title="LAT - Colombia Deportes ⚽", SP: CO: Claro Sports Latinoamerica
+http://titanlivetv.com:8080/yKxVtdpwCedm/8qU8c2SSGvzg/101874
